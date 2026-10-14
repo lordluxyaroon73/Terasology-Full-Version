@@ -240,4 +240,4 @@ This repository serves as the official landing page for Terasology. The software
 **Get the most recent version of Terasology today!**
 
 ---
-**Last updated:** 2026-10-14 05:45:13 UTC
+**Last updated:** 2026-10-14 11:05:57 UTC
